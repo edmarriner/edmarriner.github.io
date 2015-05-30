@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Edward Marriner</title>
+    <link>http://edwardmarriner.co.uk/</link>
+    <description>Recent content on Edward Marriner</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-gb</language>
     <lastBuildDate>Sat, 30 May 2015 18:26:40 +0100</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://edwardmarriner.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>http://replace-this-with-your-hugo-site.com/about/</link>
+      <link>http://edwardmarriner.co.uk/about/</link>
       <pubDate>Sat, 30 May 2015 18:26:40 +0100</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
+      <guid>http://edwardmarriner.co.uk/about/</guid>
       <description>
 
 &lt;h2 id=&#34;a-headline:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;A headline&lt;/h2&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>test</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/test/</link>
+      <link>http://edwardmarriner.co.uk/post/test/</link>
       <pubDate>Sat, 30 May 2015 18:06:30 +0100</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/test/</guid>
+      <guid>http://edwardmarriner.co.uk/post/test/</guid>
       <description></description>
     </item>
     
