@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 May 2015 18:26:40 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://replace-this-with-your-hugo-site.com/about/</link>
       <pubDate>Sat, 30 May 2015 18:26:40 +0100</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
       <description>
 
 &lt;h2 id=&#34;a-headline:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;A headline&lt;/h2&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>test</title>
-      <link>http://localhost:1313/post/test/</link>
+      <link>http://replace-this-with-your-hugo-site.com/post/test/</link>
       <pubDate>Sat, 30 May 2015 18:06:30 +0100</pubDate>
       
-      <guid>http://localhost:1313/post/test/</guid>
+      <guid>http://replace-this-with-your-hugo-site.com/post/test/</guid>
       <description></description>
     </item>
     
